@@ -1,0 +1,3 @@
+docnum111111111 - VALID
+docnum222222222 - VALID
+contract0000000 - VALID
